@@ -30,7 +30,7 @@ body{
     border: 1px solid white;
     height: 500px;
     text-align: center;
-    line-height: 420px;
+    line-height: 450px;
     color: white;
     font-size: 25pt;
 }    
@@ -48,18 +48,15 @@ body{
     border: 1px solid white;
     height: 500px;
     text-align: center;
-    
     color: white;
     font-size: 12pt;
 }    
 .textcardf{
     margin-top: 100px;
-
     height: 500px;
-    text-align: center;
-    line-height: 420px;
+    line-height: 450px;
     color: white;
-    font-size: 35pt;
+    font-size: 75pt;
 
 }
 .textcard1{
@@ -278,6 +275,7 @@ ul{
     color: white;
 }
 .foszoveg{
+    font-size: 50pt;
     animation: gradientText 5s ease-in-out infinite;
       }
       @keyframes gradientText  {
@@ -297,4 +295,10 @@ ul{
 
 .bio{
     font-size:25pt;
-}      
+}  
+button{
+    color: white;
+}    
+.kezdosz{
+    font-size: 40pt;
+}
